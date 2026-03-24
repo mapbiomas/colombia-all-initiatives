@@ -4,12 +4,12 @@ Explore our specialized resources and tools designed specifically for analyzing 
 
 #### 🗂️ LULC Collections
 
-- [**Collection 1**](https://github.com/mapbiomas/colombia-collection-1)
-- [**Collection 2**](https://github.com/mapbiomas/colombia-collection-2)
-- [**Collection 3**](https://github.com/mapbiomas/colombia-collection-3)
-- [**Collection 4**](https://github.com/mapbiomas/colombia-collection-4)
+- [**Collection 1**](https://github.com/mapbiomas/colombia-collection-1) ![](https://img.shields.io/badge/lulc-30m_landsat-brightgreen)
+- [**Collection 2**](https://github.com/mapbiomas/colombia-collection-2) ![](https://img.shields.io/badge/lulc-30m_landsat-brightgreen)
+- [**Collection 3**](https://github.com/mapbiomas/colombia-collection-3) ![](https://img.shields.io/badge/lulc-30m_landsat-brightgreen)
+- [**Collection 4**](https://github.com/mapbiomas/colombia-collection-4) ![](https://img.shields.io/badge/lulc-30m_landsat-brightgreen)
 
-#### 🌍 Cross-Cutting Themes in Colombia
+#### <img src="assets/colombia-shape.webp" height="20"/> Cross-Cutting Themes in Colombia
 
 - [**Agriculture**](https://github.com/mapbiomas/colombia-agriculture)
 - [**Pasture**](https://github.com/mapbiomas/colombia-pasture)
