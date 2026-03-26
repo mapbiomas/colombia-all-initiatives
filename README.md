@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/adc47bbb-d848-4949-8ff2-0ad01349f231" width="220" style="margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/d811d98e-6c51-46ea-a3a3-505d2ae0273f" width="220" style="margin-right: 20px;"/>
   <img src="https://github.com/user-attachments/assets/fbceb7cf-18b2-49cf-9f75-b2d87ce96156" width="220"/>
 </p>
 
@@ -34,17 +34,13 @@ Specialized repositories focused on key environmental monitoring products:
 | [**Secondary Vegetation and Vegetation Loss**](https://github.com/mapbiomas/colombia-sec-vegetation-veg-loss) | Annual mapping of secondary vegetation regrowth and native vegetation loss. |
 | [**Fire**](https://github.com/mapbiomas/colombia-fire) | Annual fire scar mapping across the Colombian territory. |
 | [**Water**](https://github.com/mapbiomas/colombia-water) | Surface water dynamics monitoring on a monthly and annual basis. |
-| [**Alert**](https://github.com/mapbiomas/colombia-alert) | Near real-time alerts for land cover change detection. |
+| **Alert** | Near real-time alerts for land cover change detection. *(Coming soon)* |
 
 ## 📊 Analysis
 
 | Repository | Description |
 |---|---|
-| [**Accuracy**](https://github.com/mapbiomas/colombia-accuracy) | Tools for assessing the accuracy of MapBiomas Colombia data products. |
-
-## 🗄️ Assets
-
-- [**MapBiomas Colombia Collections**](https://github.com/mapbiomas/.github/blob/main/assets/colombia.md) — Published map collections available on Google Earth Engine.
+| **Accuracy** | Tools for assessing the accuracy of MapBiomas Colombia data products. *(Coming soon)* |
 
 ## 🚀 Getting Started
 
