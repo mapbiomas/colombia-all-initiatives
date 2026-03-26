@@ -14,28 +14,28 @@ MapBiomas Colombia is an initiative that monitors land use and land cover change
 |---|---|
 | [**Coverage — Collection 3**](https://github.com/mapbiomas/colombia-collection-3) | Scripts for classifying land use and land cover across Colombia. Uses Google Earth Engine to apply the official MapBiomas mapping methodology across all biomes and regions. |
 
-### 🎋 Cross-Cutting Themes (Collection 3)
+### 🌿 Cross-Cutting Themes (Collection 3)
 
 Cross-cutting themes are specialized classification workflows that target specific land use classes beyond the general LULC map:
 
-| Theme | Repository | Class |
-|---|---|---|
-| Mangrove | [colombia-mangrove](https://github.com/mapbiomas/colombia-mangrove) | Class 5 |
-| Flooded | [colombia-wetlands](https://github.com/mapbiomas/colombia-wetlands) | Class 11 |
-| Mining | [colombia-mining](https://github.com/mapbiomas/colombia-mining) | Class 30 |
-| Urban Area | [colombia-urban-area](https://github.com/mapbiomas/colombia-urban-area) | Class 24 |
-| Glacier | [colombia-glacier](https://github.com/mapbiomas/colombia-glacier) | Class 34 |
+| Theme | Repository |
+|---|---|
+| Mangrove | [colombia-mangrove](https://github.com/mapbiomas/colombia-mangrove) |
+| Flooded | [colombia-wetlands](https://github.com/mapbiomas/colombia-wetlands) |
+| Mining | [colombia-mining](https://github.com/mapbiomas/colombia-mining) |
+| Urban Area | [colombia-urban-area](https://github.com/mapbiomas/colombia-urban-area) |
+| Glacier | [colombia-glacier](https://github.com/mapbiomas/colombia-glacier) |
 
 ## 🌐 Other Products
 
-Specialized repositories focused on key environmental monitoring products:
+Specialized repositories focused on key environmental monitoring products. *(Coming soon)*
 
 | Repository | Description |
 |---|---|
 | [**Secondary Vegetation and Vegetation Loss**](https://github.com/mapbiomas/colombia-sec-vegetation-veg-loss) | Annual mapping of secondary vegetation regrowth and native vegetation loss. |
 | [**Fire**](https://github.com/mapbiomas/colombia-fire) | Annual fire scar mapping across the Colombian territory. |
 | [**Water**](https://github.com/mapbiomas/colombia-water) | Surface water dynamics monitoring on a monthly and annual basis. |
-| **Alert** | Near real-time alerts for land cover change detection. *(Coming soon)* |
+
 
 ## 📊 Analysis
 
