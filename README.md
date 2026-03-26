@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0402997a-2723-434d-9c25-71f947f33141" width="220" style="margin-right: 20px;"/>
-  <img src="https://github.com/user-attachments/assets/e7c5bcbb-f329-460a-835c-507cb4f8dbb7" width="220"/>
+  <img src="https://github.com/user-attachments/assets/e7c5bcbb-f329-460a-835c-507cb4f8dbb7" width="140"/>
 </p>
 
 # 🇨🇴 MapBiomas Colombia – Resources and Tools
