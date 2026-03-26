@@ -1,7 +1,9 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0402997a-2723-434d-9c25-71f947f33141" width="180" style="margin-right: 20px;"/>
-  <img src="https://github.com/user-attachments/assets/e7c5bcbb-f329-460a-835c-507cb4f8dbb7" width="180" style="padding-bottom: 30px;"/>
-</p>
+<table align="center" border="0" cellspacing="20">
+  <tr>
+    <td valign="bottom"><img src="https://github.com/user-attachments/assets/0402997a-2723-434d-9c25-71f947f33141" width="180"/></td>
+    <td valign="bottom"><img src="https://github.com/user-attachments/assets/e7c5bcbb-f329-460a-835c-507cb4f8dbb7" width="180"/></td>
+  </tr>
+</table>
 
 # 🇨🇴 MapBiomas Colombia – Resources and Tools
 
