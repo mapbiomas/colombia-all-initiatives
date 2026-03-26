@@ -1,38 +1,65 @@
-### 🇨🇴 Colombia
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/adc47bbb-d848-4949-8ff2-0ad01349f231" width="220" style="margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/fbceb7cf-18b2-49cf-9f75-b2d87ce96156" width="220"/>
+</p>
 
-Explore our specialized resources and tools designed specifically for analyzing and monitoring land use and cover in Colombia.
+# 🇨🇴 MapBiomas Colombia – Resources and Tools
 
-#### 🗂️ LULC Collections
+MapBiomas Colombia is an initiative that monitors land use and land cover changes across the national territory through annual multitemporal mapping. It helps identify pressures on ecosystems and the expansion of human-modified areas. To generate annual maps, the project relies on a network of experts and tools such as Google Earth Engine. Collection 3 covers the entire Colombian territory and includes a set of cross-cutting themes that map specific ecosystems and land uses at a detailed level.
 
-- **Collection 1** *(coming soon)*
-- **Collection 2** *(coming soon)*
-- [**Collection 3**](https://github.com/mapbiomas/colombia-collection-3)
-- **Collection 4** *(coming soon)*
+## 📂 Available Repositories
 
-#### <img src="assets/colombia-shape.webp" height="20"/> Cross-Cutting Themes in Colombia
+| Repository | Description |
+|---|---|
+| [**Coverage — Collection 3**](https://github.com/mapbiomas/colombia-collection-3) | Scripts for classifying land use and land cover across Colombia. Uses Google Earth Engine to apply the official MapBiomas mapping methodology across all biomes and regions. |
 
-- [**Agriculture**](https://github.com/mapbiomas/colombia-agriculture)
-- [**Pasture**](https://github.com/mapbiomas/colombia-pasture)
-- [**Mangrove**](https://github.com/mapbiomas/colombia-mangrove)
-- [**Mining**](https://github.com/mapbiomas/colombia-mining)
-- [**Urban Area**](https://github.com/mapbiomas/colombia-urban-area)
-- [**Glacier**](https://github.com/mapbiomas/colombia-glacier)
+### 🎋 Cross-Cutting Themes (Collection 3)
 
+Cross-cutting themes are specialized classification workflows that target specific land use classes beyond the general LULC map:
 
-### 🌐 Other Products
+| Theme | Repository | Class |
+|---|---|---|
+| Mangrove | [colombia-mangrove](https://github.com/mapbiomas/colombia-mangrove) | Class 5 |
+| Flooded | [colombia-wetlands](https://github.com/mapbiomas/colombia-wetlands) | Class 11 |
+| Mining | [colombia-mining](https://github.com/mapbiomas/colombia-mining) | Class 30 |
+| Urban Area | [colombia-urban-area](https://github.com/mapbiomas/colombia-urban-area) | Class 24 |
+| Glacier | [colombia-glacier](https://github.com/mapbiomas/colombia-glacier) | Class 34 |
 
-Specialized repositories that focus on key environmental products:
+## 🌐 Other Products
 
-- [**Secondary Vegetation and Vegetation loss**](https://github.com/mapbiomas/colombia-sec-vegetation-veg-loss)
-- [**Fire**](https://github.com/mapbiomas/colombia-fire)
-- [**Water**](https://github.com/mapbiomas/colombia-water)
-- [**Alert**](https://github.com/mapbiomas/colombia-alert)
+Specialized repositories focused on key environmental monitoring products:
 
-### 📊 Analysis
+| Repository | Description |
+|---|---|
+| [**Secondary Vegetation and Vegetation Loss**](https://github.com/mapbiomas/colombia-sec-vegetation-veg-loss) | Annual mapping of secondary vegetation regrowth and native vegetation loss. |
+| [**Fire**](https://github.com/mapbiomas/colombia-fire) | Annual fire scar mapping across the Colombian territory. |
+| [**Water**](https://github.com/mapbiomas/colombia-water) | Surface water dynamics monitoring on a monthly and annual basis. |
+| [**Alert**](https://github.com/mapbiomas/colombia-alert) | Near real-time alerts for land cover change detection. |
 
-Tools for assessing the accuracy of our data products:
+## 📊 Analysis
 
-- [**Accuracy**](https://github.com/mapbiomas/colombia-accuracy)
+| Repository | Description |
+|---|---|
+| [**Accuracy**](https://github.com/mapbiomas/colombia-accuracy) | Tools for assessing the accuracy of MapBiomas Colombia data products. |
 
-### 🗄️ Assets
-- [**MapBiomas Colombia Collections**](https://github.com/mapbiomas/.github/blob/main/assets/colombia.md)
+## 🗄️ Assets
+
+- [**MapBiomas Colombia Collections**](https://github.com/mapbiomas/.github/blob/main/assets/colombia.md) — Published map collections available on Google Earth Engine.
+
+## 🚀 Getting Started
+
+To run any of the scripts you will need:
+
+- A [Google Earth Engine](https://earthengine.google.com/) account
+- Access to the required assets (some are public, others must be copied to your account)
+- Follow the instructions in each repository's `README.md` to set output paths and required modules
+
+If you are not familiar with MapBiomas workflows, check the [official methodology documentation](https://colombia.mapbiomas.org/descripcion-general-de-la-metodologia/).
+
+## 📬 Contact
+
+For more information about MapBiomas Colombia, visit [colombia.mapbiomas.org](https://colombia.mapbiomas.org).
+
+---
+
+*Last update: March 2026*
