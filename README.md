@@ -24,7 +24,7 @@ Cross-cutting themes are specialized classification workflows that target specif
 | Flooded | [colombia-flooded](https://github.com/mapbiomas/colombia-flooded) |
 | Wetlands | [colombia-wetlands](https://github.com/mapbiomas/colombia-wetlands) |
 | Mining | [colombia-mining](https://github.com/mapbiomas/colombia-mining) |
-| Urban Area | [colombia-urban-area](https://github.com/mapbiomas/colombia-urban-area) |
+| Urban Area | [colombia-urban](https://github.com/mapbiomas/colombia-urban) |
 | Glacier | [colombia-glacier](https://github.com/mapbiomas/colombia-glacier) |
 
 ## 🌐 Other Products
